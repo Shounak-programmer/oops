@@ -26,7 +26,7 @@ class AreaRectangle extends Rectangle
     }
 }
 
-public class area_rectangle_inheritance {
+public class area_of_rectangle {
     public static void main(String[] args) {
         AreaRectangle rect = new AreaRectangle(5.0, 3.0);
         rect.displayArea();
